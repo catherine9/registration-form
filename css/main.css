@@ -5,5 +5,5 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  font-family: "Open Sans"
+  font-family: "Open Sans", sans-serif;
 }
