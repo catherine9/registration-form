@@ -21,6 +21,13 @@ input, textarea, select {
   border-color: #ccc;
 }
 
+.btn {
+  background-color: #000;
+  border: none;
+  padding: .5em;
+  border-radius: 10px;
+}
+
 @media only screen and (min-width: 60em) {
 
   html {
